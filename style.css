@@ -103,11 +103,10 @@ footer {
     bottom: 0;
 }
 
-/* Mobile Styles - Responsive */
 @media only screen and (max-width: 600px) {
-    /* Make logo smaller and remove right margin */
+   
     .logo {
-        width: 150px;
+        width: 300px;
         margin-right: 0;
     }
 
@@ -119,7 +118,7 @@ footer {
     }
 
     nav ul li {
-        margin: 10px 0;
+        margin: 0px 0;
     }
 
     /* Adjust padding and font size for sections */
